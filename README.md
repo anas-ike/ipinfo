@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.discordapp.net/attachments/1075132042746015774/1254309993126301777/Picsart_24-03-04_04-00-18-490.png?ex=667906b6&is=6677b536&hm=b843bcf203d3b976e88fe6007029ac15e0ec1d66f8cfe921d8952850383839dd&"/>
+  <img height="150" src="https://ucarecdn.com/ceb8eff3-02b3-4868-a614-94b6731230af/Picsart_240304_040018490.png"/>
 </div>
 
 ###
@@ -50,5 +50,5 @@ Support me
 Using Api's and CORS proxies to check your IP and if you are using a VPN or Proxy service and any other information available from your IP address.
 
 <div align="center">
-  <img width="80%" src="https://media.discordapp.net/attachments/1075132042746015774/1254309624346181763/Screenshot_2024_0623_110805.jpg?ex=6679065e&is=6677b4de&hm=e8167d683b615dd84abd5ace479cddc10aba2ccac831df69fd84ea8f79a65f8b&">
+  <img width="80%" src="https://ucarecdn.com/8d73bd3e-400a-45f9-936f-30290b6adfd5/Screenshot_2024_0623_110805.jpg">
 </div> 
